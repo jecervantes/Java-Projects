@@ -7,4 +7,8 @@ public class Message {
     public void sayGoodbye(){
         System.out.println("Goodbye! It was nice seeing you!");
     }
+
+    public void insult(){
+        System.out.println("You smell like a baka.");
+    }
 }
